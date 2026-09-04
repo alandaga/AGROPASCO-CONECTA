@@ -1,0 +1,17 @@
+[
+  {
+    "id": "PROD-CAMPESINO-1788496672072",
+    "name": "Maca Roja Gelatinizada de Bombón",
+    "category": "otros",
+    "producer": "Asociación Andina de Pasco",
+    "location": "Meseta de Bombón - Pasco",
+    "price": 25.0,
+    "unit": "kg",
+    "image": "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?auto=format&fit=crop&w=800&q=80",
+    "phone": "963556677",
+    "badge": "Cosecha del Día",
+    "description": "Superalimento energizante cosechado en la puna pasqueña.",
+    "isLocalUpload": true,
+    "createdAt": 0
+  }
+]
